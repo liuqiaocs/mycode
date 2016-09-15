@@ -1,4 +1,4 @@
-我的代码学习之路
+我的python学习
 
 python文件夹下为一些python代码
 	|-----	spider.py：一些关于爬虫的使用小例子
